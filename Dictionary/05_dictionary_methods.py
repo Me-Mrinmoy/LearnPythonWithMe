@@ -7,9 +7,9 @@ myDict ={
 }
 
 # Dictionary Methods--
-print(list(myDict.keys())) #prints the keys of the dictionary
+print(list(myDict.keys())) # prints the keys of the dictionary
 print(myDict.values())      # prints the values of the dictionary
-print(myDict.items())      # prints the key vslue of the items
+print(myDict.items())      # prints the key value of the items
 print(myDict)
 updateDict = {
     "Lovish":"Friend",
