@@ -11,7 +11,7 @@ print(story.find("Mrinmoy"))
 print(story.replace("Mrinmoy","Code with Mrinmoy"))'''
 
 
-# EXAMPLE 2.
+# EXAMPLE 2. 
 name = "mrinmoyIsGood"
 
 # String functions---
@@ -24,3 +24,4 @@ print(name.capitalize())   # capitalize() function convert the word first letter
 print(name.center(65))     # center() function used to align a string to the center by filling paddings to the left and right to the string
 print(name.casefold())     # casefold() method has converted all the uppercase letters in the string to lowercase letters. 
 print(name.encode())      # encode() method encodes the string using the specified encoding
+
