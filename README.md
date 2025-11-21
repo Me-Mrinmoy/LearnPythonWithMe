@@ -1,4 +1,4 @@
-# 🚀 LearnPythonWithMe
+# 🚀 LearnPythonWithMe 
 
 Welcome to **LearnPythonWithMe** — your friendly, complete beginner’s guide to mastering Python programming from scratch! Whether you're starting your coding journey or brushing up your fundamentals, this repository has everything you need.
 
